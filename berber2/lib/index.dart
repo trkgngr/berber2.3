@@ -1,0 +1,78 @@
+// Export pages
+export '/pages/user/login_page/login_page_widget.dart' show LoginPageWidget;
+export '/pages/user/register_page/register_page_widget.dart'
+    show RegisterPageWidget;
+export '/pages/user/forgot_password/forgot_password_widget.dart'
+    show ForgotPasswordWidget;
+export '/pages/berber/berber_login_panel/berber_login_panel_widget.dart'
+    show BerberLoginPanelWidget;
+export '/pages/shop/shop_register_page/shop_register_page_widget.dart'
+    show ShopRegisterPageWidget;
+export '/pages/shop/dukkan_login_page/dukkan_login_page_widget.dart'
+    show DukkanLoginPageWidget;
+export '/pages/user/verify_number_page0/verify_number_page0_widget.dart'
+    show VerifyNumberPage0Widget;
+export '/berber_shopowner_choose/berber_shopowner_choose_widget.dart'
+    show BerberShopownerChooseWidget;
+export '/pages/berber/berber_register_page/berber_register_page_widget.dart'
+    show BerberRegisterPageWidget;
+export '/pages/user_registiration_questions/user_registiration_questions_widget.dart'
+    show UserRegistirationQuestionsWidget;
+export '/pages/berber/verify_number_page3/verify_number_page3_widget.dart'
+    show VerifyNumberPage3Widget;
+export '/pages/shop/verify_number_page6/verify_number_page6_widget.dart'
+    show VerifyNumberPage6Widget;
+export '/pages/berber/verify_number_page5/verify_number_page5_widget.dart'
+    show VerifyNumberPage5Widget;
+export '/pages/user/verify_number_page1/verify_number_page1_widget.dart'
+    show VerifyNumberPage1Widget;
+export '/pages/shop/forgot_password2/forgot_password2_widget.dart'
+    show ForgotPassword2Widget;
+export '/pages/berber/forgot_password1/forgot_password1_widget.dart'
+    show ForgotPassword1Widget;
+export '/pages/berber/verify_number_page4/verify_number_page4_widget.dart'
+    show VerifyNumberPage4Widget;
+export '/pages/shop/verify_number_page7/verify_number_page7_widget.dart'
+    show VerifyNumberPage7Widget;
+export '/pages/shop/verify_number_page8/verify_number_page8_widget.dart'
+    show VerifyNumberPage8Widget;
+export '/pages/user/verify_number_page2/verify_number_page2_widget.dart'
+    show VerifyNumberPage2Widget;
+export '/pages/user/new_password/new_password_widget.dart'
+    show NewPasswordWidget;
+export '/pages/berber/new_password1/new_password1_widget.dart'
+    show NewPassword1Widget;
+export '/pages/shop/new_password2/new_password2_widget.dart'
+    show NewPassword2Widget;
+export '/pages/berber/basvuru_alinmistir/basvuru_alinmistir_widget.dart'
+    show BasvuruAlinmistirWidget;
+export '/pages/shop/basvuru_alinmistir1/basvuru_alinmistir1_widget.dart'
+    show BasvuruAlinmistir1Widget;
+export '/pages/user/kayit_olusturuldu2/kayit_olusturuldu2_widget.dart'
+    show KayitOlusturuldu2Widget;
+export '/home_page/home_page_widget.dart' show HomePageWidget;
+export '/map/map_widget.dart' show MapWidget;
+export '/shop_page/shop_page_widget.dart' show ShopPageWidget;
+export '/pages/randevu/berbersecim/berbersecim_widget.dart'
+    show BerbersecimWidget;
+export '/pages/randevu/randevutarih/randevutarih_widget.dart'
+    show RandevutarihWidget;
+export '/pages/randevu/hizmetsecim/hizmetsecim_widget.dart'
+    show HizmetsecimWidget;
+export '/pages/randevu/randevu_talebi_alindi/randevu_talebi_alindi_widget.dart'
+    show RandevuTalebiAlindiWidget;
+export '/pages/kullaniciprofili/kullanici_profili/kullanici_profili_widget.dart'
+    show KullaniciProfiliWidget;
+export '/randevularim/randevularim_widget.dart' show RandevularimWidget;
+export '/pages/kullaniciprofili/new_password3/new_password3_widget.dart'
+    show NewPassword3Widget;
+export '/pages/kullaniciprofili/verify_number_page9/verify_number_page9_widget.dart'
+    show VerifyNumberPage9Widget;
+export '/pages/kullaniciprofili/sifre_degistirildi/sifre_degistirildi_widget.dart'
+    show SifreDegistirildiWidget;
+export '/pages/berber/sifre_degistirildi3/sifre_degistirildi3_widget.dart'
+    show SifreDegistirildi3Widget;
+export '/pages/user/sifre_degistirild1/sifre_degistirild1_widget.dart'
+    show SifreDegistirild1Widget;
+export '/pages/shop/sifre_degistirildi2/sifre_degistirildi2_widget.dart'
+    show SifreDegistirildi2Widget;
